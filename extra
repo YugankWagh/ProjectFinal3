@@ -1,0 +1,7 @@
+<title>Travel Around Maharastra</title>
+    
+    style="background-color:orange;">
+        <h1 style="color:#ffffff;"><center>Travel Around Maharastra</h1>
+            <a href="temple.html" style="color:#ffffff;font-size:40px;">Some Temples Around Maharastra</a><br><br>
+        <image src="temple.jpg" width="369" 
+        height="369"></image>
